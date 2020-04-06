@@ -1,0 +1,23 @@
+{
+  "name": "Simple-NodeJS-Scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipink1203/Simple-NodeJS-Scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipink1203/Simple-NodeJS-Scripts/issues"
+  },
+  "homepage": "https://github.com/vipink1203/Simple-NodeJS-Scripts#readme",
+  "dependencies": {
+    "repo": "0.0.5"
+  }
+}
